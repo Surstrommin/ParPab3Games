@@ -1,0 +1,17 @@
+# 🎮 Partner3 Program (CIS251 Course Assignment)  
+
+A lightweight Java-based game collection featuring:  
+✨ **Rock-Paper-Scissors**  
+✨ **Number Guessing Game**  
+
+---
+
+## 🚀 Quick Start  
+1. **Prerequisites**:  
+   - JDK 23  
+   - IntelliJ IDEA (or any Java IDE)  
+
+2. **Run**:  
+   ```bash
+   javac Main.java
+   java Main
